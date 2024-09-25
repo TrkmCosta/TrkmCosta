@@ -5,6 +5,7 @@
 - Javascript
 - HTML
 - CSS
+- Bootstrap
 
 <div>
   <a href="https://github.com/TrkmCosta">
