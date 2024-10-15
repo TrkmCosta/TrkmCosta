@@ -3,9 +3,9 @@
 Sou apaixonado por tecnologia e atualmente estou iniciando minha jornada no mundo da programação. Estou focado em aprender as principais linguagens e ferramentas para construir soluções web modernas e eficientes.
 
 ## 🚀 O que estou estudando atualmente:
-- **HTML & CSS** – Estruturando e estilizando páginas web.
-- **JavaScript** – Adicionando interatividade às páginas.
-- **PHP** – Desenvolvimento de back-end.
+- **HTML & CSS**
+- **JavaScript**
+- **PHP**
 - **Laragon** – Aprendendo a configurar meu ambiente local de desenvolvimento.
 
 ## 🎯 Meu Objetivo:
